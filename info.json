@@ -5,6 +5,6 @@
     "author": "ThefrenchTechMan",
     "contact": "",  
     "factorio_version": "1.1",
-    "dependencies": [ "base >= 1.1.0", "leighzerlib >= 0.3.1"],
-    "description": "Library of common functions and graphics used in some of my mods."
-  }
+    "dependencies": [ "base >= 1.1.0", "leighzerfactoricons >= 0.3.1"],
+    "description": "Replaces certain icons in the Leighzer's Factoricons mod to make it easier to differenciate them."
+}
