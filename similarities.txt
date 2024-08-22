@@ -1,0 +1,16 @@
+access_alarm|access_alarms|alarm
+
+add_alarm|alarm_add
+
+remove_circle|do_not_disturb_on
+
+pie_chart|donut_small
+
+play_circle_filled|play_circle_filled_white
+
+brightness_1|lens
+
+brightness_low|brightness_5
+
+location_on|place|room
+
